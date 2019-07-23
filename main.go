@@ -4,7 +4,7 @@ package main // import "github.com/go-module-test"
 import (
 	"net/http"
 
-	"github.com/go-module-test/encode"
+	"github.com/blackironj/go-module-test/encode"
 	"github.com/labstack/echo"
 )
 
