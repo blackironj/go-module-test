@@ -1,4 +1,4 @@
-module github.com/go-module-test
+module github.com/blackironj/go-module-test
 
 go 1.12
 
